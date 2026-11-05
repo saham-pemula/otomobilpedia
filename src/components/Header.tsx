@@ -71,7 +71,7 @@ export const Header: React.FC<HeaderProps> = ({ compareCarIds }) => {
               </div>
               <div className="flex flex-col">
                 <span className="font-heading font-extrabold text-xl sm:text-2xl tracking-tight text-white flex items-center">
-                  Mobil<span className="text-amber-400">pedia</span>
+                  OtoMobil<span className="text-amber-400">pedia</span>
                   <span className="text-xs ml-1 text-slate-400 font-normal">.net</span>
                 </span>
                 <span className="text-[10px] text-slate-400 font-medium tracking-wide uppercase hidden sm:block">
