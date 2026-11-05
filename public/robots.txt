@@ -1,0 +1,7 @@
+# robots.txt for otomobilpedia.net
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# Sitemaps
+Sitemap: https://otomobilpedia.net/sitemap.xml

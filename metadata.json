@@ -1,0 +1,6 @@
+{
+  "name": "Otomobilpedia.net - Agregator Perbandingan Mobil",
+  "description": "Otomobilpedia.net adalah website perbandingan mobil terlengkap di Indonesia & dunia. Bandingkan spesifikasi, harga, konsumsi BBM, performa, dan tentukan mobil A vs mobil B bagus yang mana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
